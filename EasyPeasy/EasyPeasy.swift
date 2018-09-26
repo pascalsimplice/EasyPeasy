@@ -9,6 +9,7 @@
 // SOFTWARE.
 
 import Foundation
+import UIKit
 
 /**
      Struct holding the main **EasyPeasy** operations: `layout`, `reload` and
